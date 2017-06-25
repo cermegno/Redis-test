@@ -8,3 +8,5 @@ This repo was developed for Pied Piper program 2017.
 # IMPORTANT
 - Attendees will be provided with Redis credentials during the class
 - Double-check that the sub-folder "templates" gets created. It should contain the survey.html file. That's the default location for Flask templates
+## About Python versions
+The original version of this repo was developed for Python 2.7. The python3 friendly version has been added in the folder called "_V3"
