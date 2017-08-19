@@ -1,5 +1,7 @@
 # Redis-test
-Sample Python instructions to interact with Redis
+Sample Python instructions to interact with Redis. Use this repo in conjuction with the following page:
+https://anzpiper.blogspot.com/2017/08/redis-in-cloud-foundry.html
+
 # Description
 This repo was developed for Pied Piper program 2017.
 - Redis-test.py demonstrates the syntax of various Redis operations to work with keys, lists, hashes and sets.
