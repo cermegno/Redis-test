@@ -1,6 +1,6 @@
 import redis
-#r = redis.Redis(host='123.12.148.95', port='5379')
-#r = redis.Redis(host='123.12.148.95', port='15379', password='ABCDEFG1231LQ4L')
+#r = redis.Redis(host='123.12.148.95', port='6379')
+#r = redis.Redis(host='123.12.148.95', port='16379', password='ABCDEFG1231LQ4L')
 
 ######################
 #### WORKING WITH KEYS
